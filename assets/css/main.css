@@ -2092,7 +2092,7 @@ h2, h4{
 }
 .notif-blue{
     box-sizing: border-box;
-    max-width: 50rem;
+    max-width: 70rem;
     overflow: hidden;
     background-color: #e7ecff;
     border-left-color: #1e8ffe;
