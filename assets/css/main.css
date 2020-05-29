@@ -2076,7 +2076,7 @@ h2, h4{
 
 .notif-red{
     box-sizing: border-box;
-    max-width: 50rem;
+    max-width: 70rem;
     overflow: hidden;
     background-color: #ffe7e8;
     border-left-color: #F44336;
